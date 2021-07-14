@@ -63,7 +63,10 @@ General Studies - B
 #### Makers Academy (24th April 2021 to 24th August 2021)
 - Ruby
 - RSpec
+- Capybara
+- JavaScript
+- Jasmine
 
 ## Hobbies
 
-Travel, Bouldering, Gaming, Cooking 
+Travel, Bouldering, Gaming, Cooking, Gigs 
