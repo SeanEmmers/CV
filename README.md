@@ -57,18 +57,18 @@ Customer Service Assistant**
 
 ## Education
 
-**Makers Academy**
+**Makers Academy** <br/>
 A 16 week intense coding bootcamp in London. The course focused on teaching students how to set themselves up to learn and develop their programming skills, alongside how to work with others inside an Agile work environment
 
-**Brunel University**
+**Brunel University** <br/>
 Year One - History BA
 
-**Sheldon School Sixth Form
-A Levels**
-Economics - B
-Government & Politics - B
-History - B
-General Studies - B
+**Sheldon School Sixth Form <br/>
+A Levels** <br/>
+Economics - B <br/>
+Government & Politics - B<br/>
+History - B <br/>
+General Studies - B <br/>
 
 **10 GCSE's**  <br/>
 graded A-C, including Maths, 3 Sciences and English.
