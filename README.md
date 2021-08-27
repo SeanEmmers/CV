@@ -14,11 +14,11 @@ An aspiring Software Developer and former student of the Makers Academy in Londo
 ## Technical Skills
 | Front End | Back End | Languages |
 | --------- | -------- | --------- |
-| React.js | PostgreSQL | Ruby |
-| Ruby on Rails | Sinatra | JavaScript, JSX |
-| Bootstrap | RSpec, Capybara, Jasmine | Python |
-| Bulma | React Router | SQL |
-| | | HTML, CSS |
+| React.js | Ruby on Rails | Ruby |
+| Bootstrap | PostgreSQL | JavaScript, JSX |
+| Bulma | Sinatra | Python |
+| Capybara | RSpec, Jasmine | SQL |
+| | React Router | HTML, CSS |
 
 ## Work Experience
 **North Parade Publishing (July 2020 - April 2021) <br/>
