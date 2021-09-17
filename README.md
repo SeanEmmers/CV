@@ -58,7 +58,27 @@ Customer Service Assistant**
 ## Education
 
 **Makers Academy** <br/>
-A 16 week intense coding bootcamp in London. The course focused on teaching students how to set themselves up to learn and develop their programming skills, alongside how to work with others inside an Agile work environment
+
+A 16-week intensive coding bootcamp
+
+Languages: Ruby, JavaScript, SQL, HTML/CSS
+
+Frameworks: Rails, RSpec, Jasmine, React, Sinatra
+
+DBMS: PostgreSQL
+
+* Clean code
+* Agile/XP values
+* Test Driven Development (TDD)
+* Object-oriented programming (OOP)
+* Model, View, Controller structure (MVC)
+* Project planning (MVP, modelling, wireframes, collaboration tools)
+* Self-directed learning
+* Pair programming (240+ hours)
+* Weekend challenges
+* Feedback culture
+* Holistic learning
+* Mentoring
 
 **Brunel University** <br/>
 Year One - History BA
