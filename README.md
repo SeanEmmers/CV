@@ -6,7 +6,7 @@ An aspiring Software Developer and former student of the Makers Academy in Londo
 
 | Name | Description | Tech/tools |
 | ----------- | ----------------- | ----------------- |
-| TriceraCops | A murder myster escape room| React, JSX, Bootstrap|
+| TriceraCops | A murder mystery escape room| React, JSX, Bootstrap|
 | AceBook | A full stack web app inspired by the functionality of Facebook | Ruby on Rails, PostgreSQL, Bulma, Rspec |
 | Notes App | A web app created to take notes | JavaScript, HTML, CSS |
 | DogBNB | A full stack web app inspired by AirBnB | Ruby, Rspec, Capybara, CSS, HTML |
