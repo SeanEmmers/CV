@@ -27,7 +27,7 @@ I am looking for a role that enables learning and growth. Company culture is als
 | <a href="https://github.com/SeanEmmers/tricera-cops">TriceraCops</a><br><br> A murder mystery escape room, our final project at Makers. <br/><br/> | **Tech stack** <br/> React, JSX, Bootstrap|
 | <a href="https://github.com/SeanEmmers/acebook-rails-soda">AceBook</a><br><br> A full stack web app inspired by the functionality of Facebook  <br/><br/> | **Tech stack** <br/> Ruby on Rails, PostgreSQL, Bulma, Rspec |
 | <a href="https://github.com/SeanEmmers/notes_app">NotesApp</a><br><br> A web app created to take notes <br/><br/> | **Tech stack** <br/> JavaScript, HTML, CSS |
-| <a href="https://github.com/SeanEmmers/dogbnb">DogBNB</a><br><br> A full stack web app inspired by AirBnB <br/><br/> | **Tech stack** <br/> Ruby, Rspec, Capybara, CSS, HTML |
+| <a href="https://github.com/SeanEmmers/dogbnb">DogBnB</a><br><br> A full stack web app inspired by AirBnB <br/><br/> | **Tech stack** <br/> Ruby, Rspec, Capybara, CSS, HTML |
 
 ## Technical-Skills
 | Front End | Back End | Languages |
