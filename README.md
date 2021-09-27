@@ -1,17 +1,35 @@
-## Sean Phillips
+<h1 align="center">
+Sean Phillips
+</h1>
 
-An aspiring Software Developer and former student of the Makers Academy in London. Here you can find key infomation about my projects, skills and experiences.
+<div align="center">
+
+[Projects](#projects) |
+[Tech](#technical-skills) |
+[Work Exp](#work-experience) |
+[Education](#education) |
+[Hobbies & Interests](#hobbies) 
+
+</div>
+
+I am a recent Makers Academy graduate and an aspriring Software Developer.
+
+In my previous role I was a Team Leader at a premiem events hire company in Melbourne Australia. Having returned to UK I tried my hand at coding and was soo capitvated by the powerful things that could be created.
+
+I am a great problem solver, I enjoy seeing challenges through and am not easily deterred by pitfalls. I work very hard and am passionate about what I do, I value quality and find producing things that I am genuinely proud of incredibly rewarding. 
+
+I am looking for a role that enables learning and growth. Company culture is also very important to me.
 
 ## Projects
 
-| Name | Description | Tech/tools |
-| ----------- | ----------------- | ----------------- |
-| TriceraCops | A murder mystery escape room| React, JSX, Bootstrap|
-| AceBook | A full stack web app inspired by the functionality of Facebook | Ruby on Rails, PostgreSQL, Bulma, Rspec |
-| Notes App | A web app created to take notes | JavaScript, HTML, CSS |
-| DogBNB | A full stack web app inspired by AirBnB | Ruby, Rspec, Capybara, CSS, HTML |
+| Name & Description | Tech/tools |
+| -------------------- | ----------------- | 
+| <a href="https://github.com/SeanEmmers/tricera-cops">TriceraCops</a><br><br> A murder mystery escape room, our final project at Makers. <br/><br/> | **Tech stack** <br/> React, JSX, Bootstrap|
+| <a href="https://github.com/SeanEmmers/acebook-rails-soda">AceBook</a><br><br> A full stack web app inspired by the functionality of Facebook  <br/><br/> | **Tech stack** <br/> Ruby on Rails, PostgreSQL, Bulma, Rspec |
+| <a href="https://github.com/SeanEmmers/notes_app">NotesApp</a><br><br> A web app created to take notes <br/><br/> | **Tech stack** <br/> JavaScript, HTML, CSS |
+| <a href="https://github.com/SeanEmmers/dogbnb">DogBNB</a><br><br> A full stack web app inspired by AirBnB <br/><br/> | **Tech stack** <br/> Ruby, Rspec, Capybara, CSS, HTML |
 
-## Technical Skills
+## Technical-Skills
 | Front End | Back End | Languages |
 | --------- | -------- | --------- |
 | React.js | Ruby on Rails | Ruby |
@@ -20,7 +38,7 @@ An aspiring Software Developer and former student of the Makers Academy in Londo
 | Capybara | RSpec, Jasmine | SQL |
 | | React Router | HTML, CSS |
 
-## Work Experience
+## Work-Experience
 **North Parade Publishing (July 2020 - April 2021) <br/>
 Shopfitting**
 - Working during the UK lockdown to help with the refurbishment of the company office
@@ -92,12 +110,6 @@ General Studies - B <br/>
 
 **10 GCSE's**  <br/>
 graded A-C, including Maths, 3 Sciences and English.
-
-## Skills
-
-Problem solving - One of my key strengths is my ability to find solutions and deal with pressure. I believe that both these qualities tie in together as it is important to be able to keep a clear head and maintain clarity when faced with a difficult situation. I have overcome some challenging times in my life and I am proud of how I have dealt with them. Battling with my mental health as a young adult and learning how to overcome this situation has played a huge role in the adult I have become today. Overcoming these issues with effective therapy techniques and self improvement with exercise and travel have given me a strong resolve and a personal belief that I can overcome any challenge that I am faced with today. This part of my life has taught me compassion and that no problem is insurmountable. Furthermore my wide range of jobs, working with many different cultures and within many different team structures has exposed me to a lot of different ways of thinking and this has further developed these skills. 
-
-Flexibility to work autonomously or as part of a complex team -  The company I worked for in Melbourne was the sole supplier of furniture for the Australian Open in 2019. This was a huge undertaking for our company, we faced many deadlines and complex logistical challenges that required the collaboration of many departments within the company to overcome. I played a key role as a team member on site helping to liaise with clients and finding solutions to any problems that arose. As a team member I would help wherever I was needed most, be it on site, in the warehouse, or in logistics. Seeing this project through successfully was an incredibly rewarding experience. It taught me vital lessons about the importance of effective communication and planning, I also learnt valuable lessons about the power of efficient delegation and the impact that this can have in time sensitive projects. 
 
 ## Hobbies
 
