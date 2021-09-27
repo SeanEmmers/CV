@@ -12,11 +12,11 @@ Sean Phillips
 
 </div>
 
-I am a recent Makers Academy graduate and an aspriring Software Developer.
+I am a recent Makers Academy graduate and an aspiring Software Developer.
 
-In my previous role I was a Team Leader at a premiem events hire company in Melbourne Australia. Having returned to UK I tried my hand at coding and was soo capitvated by the powerful things that could be created.
+In my previous role, I was a Team Leader at a premier events hire company in Melbourne Australia. Having returned to the UK I tried my hand at coding and was soo captivated by the powerful things that could be created.
 
-I am a great problem solver, I enjoy seeing challenges through and am not easily deterred by pitfalls. I work very hard and am passionate about what I do, I value quality and find producing things that I am genuinely proud of incredibly rewarding. 
+I am a great problem solver, I enjoy seeing challenges through and am not easily deterred by pitfalls. I work very hard and am passionate about what I do, I value quality and find producing things that I am genuinely proud of incredibly rewarding.
 
 I am looking for a role that enables learning and growth. Company culture is also very important to me.
 
