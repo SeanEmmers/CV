@@ -113,8 +113,8 @@ graded A-C, including Maths, 3 Sciences and English.
 
 ## Hobbies
 
-**Travel:** I've been privileged enough to spend a significant part of my adult life travelling and working abroad. <br/>
-**Bouldering:** I love the problem-solving aspect of bouldering, it is something I can do while truly switching off from the outside world. <br/>
-**Cooking:** Love experimenting with new recipes and trying new foods! <br/>
-**Gigs:** One of my favourite weekend activities is going and listening to some live music. <br/>
-**Gaming:** A great way for me to wind down and catch up with friends. <br/>
+**Travel :** I've been privileged enough to spend a significant part of my adult life travelling and working abroad. <br/>
+**Bouldering :** I love the problem-solving aspect of bouldering, it is something I can do while truly switching off from the outside world. <br/>
+**Cooking :** Love experimenting with new recipes and trying new foods! <br/>
+**Gigs :** One of my favourite weekend activities is going and listening to some live music. <br/>
+**Gaming :** A great way for me to wind down and catch up with friends. <br/>
