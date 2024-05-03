@@ -4,7 +4,6 @@ Sean Phillips
 
 <div align="center">
 
-[Projects](#projects) |
 [Tech](#technical-skills) |
 [Work Exp](#work-experience) |
 [Education](#education) |
