@@ -12,33 +12,21 @@ Sean Phillips
 
 </div>
 
-I am a recent Makers Academy graduate and an aspiring Software Developer.
-
-In my previous role, I was a Team Leader at a premium events hire company in Melbourne Australia. Having returned to the UK I tried my hand at coding and was captivated by the powerful things that could be created.
-
 I am a great problem solver, I enjoy seeing challenges through and am not easily deterred by pitfalls. I work very hard and am passionate about what I do, I value quality and find producing things that I am genuinely proud of incredibly rewarding.
-
-I am looking for a role that enables learning and growth. Company culture is also very important to me.
-
-## Projects
-
-| Name & Description | Tech/tools |
-| -------------------- | ----------------- | 
-| <a href="https://github.com/SeanEmmers/tricera-cops">TriceraCops</a><br><br> A murder mystery escape room, our final project at Makers. <br/><br/> | **Tech stack** <br/> React, JSX, Bootstrap|
-| <a href="https://github.com/SeanEmmers/acebook-rails-soda">AceBook</a><br><br> A full stack web app inspired by the functionality of Facebook  <br/><br/> | **Tech stack** <br/> Ruby on Rails, PostgreSQL, Bulma, Rspec |
-| <a href="https://github.com/SeanEmmers/notes_app">NotesApp</a><br><br> A web app created to take notes <br/><br/> | **Tech stack** <br/> JavaScript, HTML, CSS |
-| <a href="https://github.com/SeanEmmers/dogbnb">DogBnB</a><br><br> A full stack web app inspired by AirBnB <br/><br/> | **Tech stack** <br/> Ruby, Rspec, Capybara, CSS, HTML |
 
 ## Technical-Skills
 | Front End | Back End | Languages |
 | --------- | -------- | --------- |
 | React.js | Ruby on Rails | Ruby |
-| Bootstrap | PostgreSQL | JavaScript, JSX |
-| Bulma | Sinatra | Python |
-| Capybara | RSpec, Jasmine | SQL |
-| | React Router | HTML, CSS |
+| Next.js | PostgreSQL | Typescript |
+| Styled Components | Sinatra | Python |
+| Jest | RSpec, Jasmine | SQL |
+|  | React Router | HTML, CSS |
 
 ## Work-Experience
+**BOXT (October 2021 - Current) <br/>
+Full Stack Engineer**
+-------------------------------------------------------------
 **North Parade Publishing (July 2020 - April 2021) <br/>
 Shopfitting**
 - Working during the UK lockdown to help with the refurbishment of the company office
